@@ -1,0 +1,44 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+  background-color: hsl(212, 45%, 89%);
+  margin-top: 80px;
+}
+
+img{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+    width: 224px;
+ 
+    
+
+}
+
+.container{
+    background-color:hsl(0, 0%, 100%) ;
+    width: 253px;
+    margin: 0 auto;
+    border-radius: 5%;
+    height: 389px ;
+}
+
+.p1{ 
+margin-bottom: 5%;
+font-size: 18px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-family:'Outfit', sans-serif;
+}
+ 
+
+.p2{
+margin-left: 8%;
+margin-right: 8%;
+text-align: center;
+font-size: 13px;
+color: hsl(220, 15%, 55%);
+font-family:'Outfit', sans-serif;
+}
